@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bboyd146/Tech-blog/issues"
   },
-  "homepage": "https://github.com/bboyd146/Tech-blog#readme"
+  "homepage": "https://github.com/bboyd146/Tech-blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
